@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>SiraHub — Find Your Next Opportunity</title>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+:root{--bg:#0f0a18;--surface:rgba(26,17,40,.75);--surface2:rgba(186,0,255,.08);--border:rgba(186,0,255,.15);--text:#ffffff;--text2:#b8a5d4;--accent:#BA00FF;--accent-light:#CC50FF;--accent-dark:#450087;--green:#10b981;--amber:#f59e0b;--gradient:linear-gradient(135deg,#CC50FF,#450087)}
+body{font-family:'Outfit',sans-serif;background:var(--bg);color:var(--text);min-height:100vh;background-image:radial-gradient(circle at 15% 50%,rgba(186,0,255,.12),transparent 25%),radial-gradient(circle at 85% 30%,rgba(69,0,135,.15),transparent 25%)}
+a{color:var(--accent-light);text-decoration:none}
+.app{max-width:960px;margin:0 auto;padding:1rem}
+
+.header{text-align:center;padding:2.5rem 1rem 1.5rem;background:linear-gradient(135deg,rgba(186,0,255,.1),rgba(69,0,135,.12));border-radius:20px;margin-bottom:1.5rem;border:1px solid var(--border)}
+.header h1{font-size:1.8rem;font-weight:800;background:var(--gradient);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.header p{color:var(--text2);margin-top:.4rem;font-size:.9rem}
+.login-bar{display:flex;gap:.5rem;justify-content:center;margin-top:1rem;align-items:center}
+.login-bar input{background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:.5rem .75rem;color:var(--text);font-size:.85rem;width:180px;outline:none}
+.login-bar input:focus{border-color:var(--accent)}
+
+.tabs{display:flex;gap:.5rem;margin-bottom:1.5rem;overflow-x:auto;padding-bottom:.25rem}
+.tab{padding:.55rem 1.2rem;border-radius:10px;background:var(--surface);border:1px solid var(--border);cursor:pointer;font-size:.85rem;font-weight:500;color:var(--text2);white-space:nowrap;transition:.2s}
+.tab:hover{background:var(--surface2);color:var(--text)}
+.tab.active{background:var(--gradient);color:#fff;border-color:transparent}
+
+.card{background:var(--surface);border:1px solid var(--border);border-radius:14px;padding:1.25rem;margin-bottom:1rem;transition:.3s}
+.card:hover{border-color:rgba(186,0,255,.35);transform:translateY(-2px);box-shadow:0 12px 30px -8px rgba(186,0,255,.2)}
+.card h3{font-size:1rem;font-weight:600;margin-bottom:.35rem}
+.card-meta{display:flex;flex-wrap:wrap;gap:.5rem;margin-bottom:.5rem}
+.tag{font-size:.7rem;padding:3px 8px;border-radius:6px;font-weight:500}
+.tag-purple{background:rgba(186,0,255,.15);color:#CC50FF}
+.tag-green{background:rgba(16,185,129,.15);color:#34d399}
+.tag-amber{background:rgba(245,158,11,.15);color:#fbbf24}
+.tag-blue{background:rgba(69,0,135,.2);color:#a78bfa}
+.card-desc{color:var(--text2);font-size:.8rem;line-height:1.5;margin-bottom:.6rem}
+.card-footer{display:flex;justify-content:space-between;align-items:center}
+.card-footer a{font-size:.8rem;font-weight:600;padding:6px 14px;background:var(--gradient);color:#fff;border-radius:8px;transition:.2s}
+.card-footer a:hover{opacity:.85;box-shadow:0 4px 15px -2px rgba(186,0,255,.4)}
+.card-footer span{font-size:.7rem;color:var(--text2)}
+
+.search-bar{display:flex;gap:.5rem;margin-bottom:1rem;flex-wrap:wrap}
+.search-bar input,.search-bar select{background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:.55rem .75rem;color:var(--text);font-size:.85rem;outline:none;flex:1;min-width:120px}
+.search-bar select{cursor:pointer;min-width:140px;flex:unset}
+.search-bar input:focus,.search-bar select:focus{border-color:var(--accent)}
+
+.profile-grid{display:grid;grid-template-columns:1fr 1fr;gap:1rem}
+@media(max-width:600px){.profile-grid{grid-template-columns:1fr}}
+.form-group{margin-bottom:1rem}
+.form-group label{display:block;font-size:.8rem;color:var(--text2);margin-bottom:.3rem;font-weight:500}
+.form-group input,.form-group select{width:100%;background:rgba(15,10,24,.6);border:1px solid var(--border);border-radius:8px;padding:.5rem .75rem;color:var(--text);font-size:.85rem;outline:none}
+.form-group input:focus,.form-group select:focus{border-color:var(--accent);box-shadow:0 0 0 2px rgba(186,0,255,.15)}
+.chip-container{display:flex;flex-wrap:wrap;gap:.4rem;margin-top:.3rem}
+.chip{padding:4px 12px;border-radius:20px;font-size:.75rem;cursor:pointer;border:1px solid var(--border);background:var(--surface);color:var(--text2);transition:.2s;font-weight:500}
+.chip.selected{background:var(--gradient);color:#fff;border-color:transparent;box-shadow:0 2px 10px -2px rgba(186,0,255,.4)}
+.btn{padding:.6rem 1.5rem;border:none;border-radius:10px;cursor:pointer;font-weight:600;font-size:.85rem;color:#fff;background:var(--gradient);transition:.2s;font-family:'Outfit',sans-serif}
+.btn:hover{opacity:.85;box-shadow:0 6px 20px -4px rgba(186,0,255,.45)}
+.btn:disabled{opacity:.4;cursor:not-allowed}
+
+.pagination{display:flex;gap:.5rem;justify-content:center;margin:1.5rem 0;align-items:center}
+.pagination button{padding:.4rem .8rem;border-radius:8px;border:1px solid var(--border);background:var(--surface);color:var(--text);cursor:pointer;font-size:.8rem;font-family:'Outfit',sans-serif;transition:.2s}
+.pagination button:hover{background:var(--surface2);border-color:var(--accent)}
+.pagination button:disabled{opacity:.3;cursor:not-allowed}
+.pagination span{font-size:.8rem;color:var(--text2)}
+
+.toast{position:fixed;bottom:1.5rem;left:50%;transform:translateX(-50%);background:var(--gradient);color:#fff;padding:.6rem 1.5rem;border-radius:10px;font-size:.85rem;font-weight:500;z-index:999;animation:fadeUp .3s;box-shadow:0 8px 25px -4px rgba(186,0,255,.4)}
+@keyframes fadeUp{from{opacity:0;transform:translateX(-50%) translateY(10px)}to{opacity:1;transform:translateX(-50%) translateY(0)}}
+
+.empty{text-align:center;padding:3rem 1rem;color:var(--text2);font-size:.9rem}
+.loader{width:24px;height:24px;border:3px solid var(--border);border-top-color:var(--accent);border-radius:50%;animation:spin .6s linear infinite;margin:2rem auto}
+@keyframes spin{to{transform:rotate(360deg)}}
+.stat-row{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:.75rem;margin-bottom:1.5rem}
+.stat-box{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:1rem;text-align:center}
+.stat-box .val{font-size:1.4rem;font-weight:700;background:var(--gradient);-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.stat-box .lbl{font-size:.7rem;color:var(--text2);margin-top:.2rem}
+</style>
+</head>
+<body>
+<div class="app" id="app">
+  <div class="header">
+    <h1>💼 SkilyJob</h1>
+    <p>Your personalized job discovery platform</p>
+    <div class="login-bar">
+      <input id="chatIdInput" type="text" placeholder="Enter your Chat ID" />
+      <button class="btn" onclick="loadProfile()" style="padding:.5rem 1rem">Connect</button>
+    </div>
+  </div>
+
+  <div class="tabs">
+    <div class="tab active" onclick="switchTab('search',this)">🔍 Search Jobs</div>
+    <div class="tab" onclick="switchTab('profile',this)">👤 My Profile</div>
+  </div>
+
+  <div id="searchTab">
+    <div class="search-bar">
+      <input id="searchQ" type="text" placeholder="Search jobs…" oninput="debounceSearch()"/>
+      <select id="searchCat" onchange="searchJobs()"><option value="all">All Categories</option></select>
+      <select id="searchSource" onchange="searchJobs()">
+        <option value="all">All Sources</option>
+        <option value="web">Hahu Jobs</option>
+        <option value="telegram">Telegram</option>
+      </select>
+      <input id="searchLoc" type="text" placeholder="Location…" oninput="debounceSearch()"/>
+    </div>
+    <div id="jobResults"><div class="loader"></div></div>
+    <div id="pagination" class="pagination"></div>
+  </div>
+
+  <div id="profileTab" style="display:none">
+    <div id="profileContent"><p class="empty">Enter your Chat ID above to load your profile.</p></div>
+  </div>
+</div>
+
+<div id="toast" style="display:none" class="toast"></div>
+
+<script>
+const API = window.location.origin + '/api';
+let currentPage = 1;
+let searchTimer = null;
+let userProfile = null;
+const allCategories = [];
+
+(async () => {
+  try {
+    const res = await fetch(API + '/categories');
+    const cats = await res.json();
+    const sel = document.getElementById('searchCat');
+    cats.forEach(c => {
+      const o = document.createElement('option');
+      o.value = c; o.textContent = c;
+      sel.appendChild(o);
+      allCategories.push(c);
+    });
+  } catch(e) {}
+  searchJobs();
+})();
+
+function switchTab(tab, el) {
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  el.classList.add('active');
+  document.getElementById('searchTab').style.display = tab === 'search' ? '' : 'none';
+  document.getElementById('profileTab').style.display = tab === 'profile' ? '' : 'none';
+}
+
+function debounceSearch() {
+  clearTimeout(searchTimer);
+  searchTimer = setTimeout(() => { currentPage = 1; searchJobs(); }, 400);
+}
+
+async function searchJobs() {
+  const q = document.getElementById('searchQ').value;
+  const cat = document.getElementById('searchCat').value;
+  const src = document.getElementById('searchSource').value;
+  const loc = document.getElementById('searchLoc').value;
+  const container = document.getElementById('jobResults');
+  container.innerHTML = '<div class="loader"></div>';
+  try {
+    const params = new URLSearchParams({ q, category: cat, source: src, location: loc, page: currentPage, limit: 15 });
+    const res = await fetch(API + '/jobs/search?' + params);
+    const data = await res.json();
+    renderJobs(data);
+  } catch(e) {
+    container.innerHTML = '<p class="empty">Failed to load jobs.</p>';
+  }
+}
+
+function renderJobs(data) {
+  const c = document.getElementById('jobResults');
+  if (!data.jobs || !data.jobs.length) {
+    c.innerHTML = '<p class="empty">No jobs found. Try different filters.</p>';
+    document.getElementById('pagination').innerHTML = '';
+    return;
+  }
+  let html = '';
+  data.jobs.forEach(j => {
+    const desc = (j.description || '').slice(0, 150);
+    const srcTag = j.source === 'telegram'
+      ? '<span class="tag tag-purple">📡 Telegram</span>'
+      : '<span class="tag tag-blue">🌐 Hahu Jobs</span>';
+    const date = j.scraped_at ? new Date(j.scraped_at).toLocaleDateString() : '';
+    html += `<div class="card">
+      <h3>${esc(j.title)}</h3>
+      <div class="card-meta">
+        <span class="tag tag-green">🏢 ${esc(j.company||'Unknown')}</span>
+        <span class="tag tag-amber">📍 ${esc(j.location||'N/A')}</span>
+        ${srcTag}
+        ${j.deadline ? '<span class="tag tag-purple">⏳ '+esc(j.deadline)+'</span>' : ''}
+      </div>
+      ${desc ? '<p class="card-desc">'+esc(desc)+(desc.length>=150?'…':'')+'</p>' : ''}
+      <div class="card-footer">
+        <a href="${esc(j.url)}" target="_blank">View Job ➜</a>
+        <span>${date}</span>
+      </div>
+    </div>`;
+  });
+  c.innerHTML = html;
+  const totalPages = Math.ceil(data.total / data.limit);
+  const pg = document.getElementById('pagination');
+  if (totalPages <= 1) { pg.innerHTML = ''; return; }
+  pg.innerHTML = `
+    <button ${currentPage<=1?'disabled':''} onclick="currentPage--;searchJobs()">← Prev</button>
+    <span>Page ${currentPage} of ${totalPages} (${data.total} jobs)</span>
+    <button ${currentPage>=totalPages?'disabled':''} onclick="currentPage++;searchJobs()">Next →</button>
+  `;
+}
+
+async function loadProfile() {
+  const chatId = document.getElementById('chatIdInput').value.trim();
+  if (!chatId) return;
+  const pc = document.getElementById('profileContent');
+  pc.innerHTML = '<div class="loader"></div>';
+  try {
+    const res = await fetch(API + '/user/' + chatId);
+    if (!res.ok) { pc.innerHTML = '<p class="empty">User not found. Make sure you started the bot first.</p>'; return; }
+    userProfile = await res.json();
+    renderProfile();
+  } catch(e) {
+    pc.innerHTML = '<p class="empty">Error loading profile.</p>';
+  }
+}
+
+function renderProfile() {
+  const u = userProfile;
+  const cats = u.job_categories || [];
+  const types = u.job_types || [];
+  const pc = document.getElementById('profileContent');
+  const catChips = allCategories.map(c =>
+    `<div class="chip ${cats.includes(c)?'selected':''}" onclick="toggleChip('cat',this,'${esc(c)}')">${c}</div>`
+  ).join('');
+  const typeOptions = ['Remote','Full-time','Part-time','Freelance'];
+  const typeChips = typeOptions.map(t =>
+    `<div class="chip ${types.includes(t)?'selected':''}" onclick="toggleChip('type',this,'${t}')">${t}</div>`
+  ).join('');
+  pc.innerHTML = `
+    <div class="stat-row">
+      <div class="stat-box"><div class="val">${u.is_premium?'💎 Premium':'⭐ Standard'}</div><div class="lbl">Account Type</div></div>
+      <div class="stat-box"><div class="val">${u.referral_count||0}</div><div class="lbl">Referrals</div></div>
+      <div class="stat-box"><div class="val">${u.jobs_sent_today||0}</div><div class="lbl">Jobs Today</div></div>
+    </div>
+    <div class="card">
+      <h3 style="margin-bottom:1rem">Edit Profile</h3>
+      <div class="profile-grid">
+        <div class="form-group"><label>Full Name</label><input id="pName" value="${esc(u.first_name||'')}" /></div>
+        <div class="form-group"><label>Age Group</label>
+          <select id="pAge">
+            ${['15-20','21-25','26-30','31-35','36-40','40+'].map(a => `<option value="${a}" ${u.age===a?'selected':''}>${a}</option>`).join('')}
+          </select>
+        </div>
+        <div class="form-group"><label>Preferred Location</label><input id="pLoc" value="${esc(u.preferred_location||'')}" placeholder="e.g. Addis Ababa" /></div>
+      </div>
+      <div class="form-group"><label>Job Categories</label><div class="chip-container" id="catChips">${catChips}</div></div>
+      <div class="form-group"><label>Job Types</label><div class="chip-container" id="typeChips">${typeChips}</div></div>
+      <button class="btn" onclick="saveProfile()">Save Changes</button>
+    </div>
+  `;
+}
+
+function toggleChip(kind, el) {
+  el.classList.toggle('selected');
+  const container = kind === 'cat' ? document.getElementById('catChips') : document.getElementById('typeChips');
+  const selected = [...container.querySelectorAll('.chip.selected')].map(c => c.textContent);
+  if (kind === 'cat') userProfile.job_categories = selected;
+  else userProfile.job_types = selected;
+}
+
+async function saveProfile() {
+  const chatId = document.getElementById('chatIdInput').value.trim();
+  if (!chatId || !userProfile) return;
+  const body = {
+    first_name: document.getElementById('pName').value,
+    age: document.getElementById('pAge').value,
+    preferred_location: document.getElementById('pLoc').value,
+    job_categories: userProfile.job_categories || [],
+    job_types: userProfile.job_types || [],
+  };
+  try {
+    const res = await fetch(API + '/user/' + chatId, {
+      method: 'PUT', headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(body),
+    });
+    if (res.ok) showToast('✅ Profile saved!');
+    else showToast('❌ Failed to save');
+  } catch(e) { showToast('❌ Network error'); }
+}
+
+function showToast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg; t.style.display = '';
+  setTimeout(() => t.style.display = 'none', 2500);
+}
+
+function esc(s) {
+  if (!s) return '';
+  const d = document.createElement('div');
+  d.textContent = s;
+  return d.innerHTML;
+}
+</script>
+</body>
+</html>

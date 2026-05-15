@@ -1,0 +1,665 @@
+2026-05-10 13:41:35,008 | INFO     | scraper | 🔂 Single-run mode (--once)
+2026-05-10 13:41:35,057 | INFO     | scraper | ============================================================
+2026-05-10 13:41:35,057 | INFO     | scraper | 🕷  Combined scrape cycle started
+2026-05-10 13:41:35,058 | INFO     | scraper | ============================================================
+2026-05-10 13:41:35,060 | INFO     | scraper | 🌐 Web scrape: pages 1–5
+2026-05-10 13:41:35,062 | INFO     | scraper |   📄 Page 1/5
+2026-05-10 13:42:00,841 | INFO     | scraper |   [WEB] → https://www.hahu.jobs/jobs?min_yoe=0&max_yoe=100&page=1
+2026-05-10 13:42:09,613 | INFO     | scraper | 🔂 Single-run mode (--once)
+2026-05-10 13:42:09,617 | INFO     | scraper | ============================================================
+2026-05-10 13:42:09,629 | INFO     | scraper | 🕷  Combined scrape cycle started
+2026-05-10 13:42:09,629 | INFO     | scraper | ============================================================
+2026-05-10 13:42:09,631 | INFO     | scraper | 🌐 Web scrape: pages 1–5
+2026-05-10 13:42:09,631 | INFO     | scraper |   📄 Page 1/5
+2026-05-10 13:42:10,750 | INFO     | scraper |   [WEB] → https://www.hahu.jobs/jobs?min_yoe=0&max_yoe=100&page=1
+2026-05-10 13:42:12,990 | INFO     | scraper |     54 cards found
+2026-05-10 13:42:13,087 | INFO     | scraper |     ✅ NEW  : MICE Sales Expert IV
+2026-05-10 13:42:13,106 | INFO     | scraper |     ✅ NEW  : Brand Ambassador
+2026-05-10 13:42:13,130 | INFO     | scraper |     ✅ NEW  : Tourist Facilities Construction Expert III
+2026-05-10 13:42:13,150 | INFO     | scraper |     ✅ NEW  : Tourism Infrastructure Development Officer IV
+2026-05-10 13:42:13,170 | INFO     | scraper |     ✅ NEW  : Research and Business Development Officer IV
+2026-05-10 13:42:13,208 | INFO     | scraper |     ✅ NEW  : Field Sales Officer
+2026-05-10 13:42:13,226 | INFO     | scraper |     ✅ NEW  : Junior Accountant
+2026-05-10 13:42:13,254 | INFO     | scraper |     ✅ NEW  : Junior Accountant
+2026-05-10 13:42:13,434 | INFO     | scraper |     ✅ NEW  : Receptionist
+2026-05-10 13:42:16,044 | INFO     | scraper |   📄 Page 2/5
+2026-05-10 13:42:17,098 | INFO     | scraper |   [WEB] → https://www.hahu.jobs/jobs?min_yoe=0&max_yoe=100&page=2
+2026-05-10 13:42:23,378 | INFO     | scraper |     54 cards found
+2026-05-10 13:42:26,032 | INFO     | scraper |   📄 Page 2/5
+2026-05-10 13:42:27,184 | INFO     | scraper |   [WEB] → https://www.hahu.jobs/jobs?min_yoe=0&max_yoe=100&page=2
+2026-05-10 13:42:30,575 | INFO     | scraper |     54 cards found
+2026-05-10 13:42:30,620 | INFO     | scraper |     ✅ NEW  : Instructor(Researcher and Community Service)
+2026-05-10 13:42:30,650 | INFO     | scraper |     ✅ NEW  : Accountant
+2026-05-10 13:42:30,676 | INFO     | scraper |     ✅ NEW  : Administrative Secretary
+2026-05-10 13:42:30,751 | INFO     | scraper |     ✅ NEW  : Sales & Marketing Officer
+2026-05-10 13:42:30,798 | INFO     | scraper |     ✅ NEW  : Senior Video Editor
+2026-05-10 13:42:33,247 | INFO     | scraper |   📄 Page 3/5
+2026-05-10 13:42:34,248 | INFO     | scraper |   [WEB] → https://www.hahu.jobs/jobs?min_yoe=0&max_yoe=100&page=3
+2026-05-10 13:42:40,498 | INFO     | scraper |     54 cards found
+2026-05-10 13:42:43,183 | INFO     | scraper |   📄 Page 3/5
+2026-05-10 13:42:44,298 | INFO     | scraper |   [WEB] → https://www.hahu.jobs/jobs?min_yoe=0&max_yoe=100&page=3
+2026-05-10 13:42:48,856 | INFO     | scraper |     54 cards found
+2026-05-10 13:42:48,873 | INFO     | scraper |     ✅ NEW  : Store Keeper
+2026-05-10 13:42:48,895 | INFO     | scraper |     ✅ NEW  : Marketing Officer
+2026-05-10 13:42:48,923 | INFO     | scraper |     ✅ NEW  : Junior Sales Officer
+2026-05-10 13:42:48,950 | INFO     | scraper |     ✅ NEW  : Construction Materials Sales and Operations Manager
+2026-05-10 13:42:48,969 | INFO     | scraper |     ✅ NEW  : Medical Import & Distribution Manager (Pharmacist)
+2026-05-10 13:42:49,015 | INFO     | scraper |     ✅ NEW  : International Trade Officer
+2026-05-10 13:42:49,034 | INFO     | scraper |     ✅ NEW  : Professor
+2026-05-10 13:42:49,054 | INFO     | scraper |     ✅ NEW  : Plant Coordinator ( Vacancy Code- Hahu 002/2026)
+2026-05-10 13:42:49,075 | INFO     | scraper |     ✅ NEW  : Nurse IV
+2026-05-10 13:42:49,092 | INFO     | scraper |     ✅ NEW  : Assistant/ Associate Professor
+2026-05-10 13:42:49,128 | INFO     | scraper |     ✅ NEW  : Invoice Verification Specialist III
+2026-05-10 13:42:49,146 | INFO     | scraper |     ✅ NEW  : Professional Nurse II
+2026-05-10 13:42:49,167 | INFO     | scraper |     ✅ NEW  : Nurse II
+2026-05-10 13:42:49,186 | INFO     | scraper |     ✅ NEW  : Quality Assurance Section Head
+2026-05-10 13:42:49,205 | INFO     | scraper |     ✅ NEW  : Nurse III
+2026-05-10 13:42:49,252 | INFO     | scraper |     ✅ NEW  : Assistant Professor
+2026-05-10 13:42:49,270 | INFO     | scraper |     ✅ NEW  : Sewerage Line Installation and Maintenance Worker
+2026-05-10 13:42:49,290 | INFO     | scraper |     ✅ NEW  : Driver
+2026-05-10 13:42:49,308 | INFO     | scraper |     ✅ NEW  : Pharmacy Technician IV
+2026-05-10 13:42:49,331 | INFO     | scraper |     ✅ NEW  : Senior Cost Accountant
+2026-05-10 13:42:49,354 | INFO     | scraper |     ✅ NEW  : Motorist
+2026-05-10 13:42:49,379 | INFO     | scraper |     ✅ NEW  : HR and Administration Officer
+2026-05-10 13:42:49,398 | INFO     | scraper |     ✅ NEW  : Senior Finance Officer
+2026-05-10 13:42:49,418 | INFO     | scraper |     ✅ NEW  : Senior Mechanical (HVAC) Engineer
+2026-05-10 13:42:49,441 | INFO     | scraper |     ✅ NEW  : Sales and Marketing Officer
+2026-05-10 13:42:49,461 | INFO     | scraper |     ✅ NEW  : Store Manager
+2026-05-10 13:42:49,480 | INFO     | scraper |     ✅ NEW  : Sales Person
+2026-05-10 13:42:49,506 | INFO     | scraper |     ✅ NEW  : Sales and Marketing Officer
+2026-05-10 13:42:49,525 | INFO     | scraper |     ✅ NEW  : Reception
+2026-05-10 13:42:49,545 | INFO     | scraper |     ✅ NEW  : English Teacher
+2026-05-10 13:42:49,562 | INFO     | scraper |     ✅ NEW  : Senior Software Developer
+2026-05-10 13:42:52,109 | INFO     | scraper |   📄 Page 4/5
+2026-05-10 13:42:53,181 | INFO     | scraper |   [WEB] → https://www.hahu.jobs/jobs?min_yoe=0&max_yoe=100&page=4
+2026-05-10 13:42:56,944 | INFO     | scraper |     54 cards found
+2026-05-10 13:42:59,559 | INFO     | scraper |   📄 Page 4/5
+2026-05-10 13:43:00,706 | INFO     | scraper |   [WEB] → https://www.hahu.jobs/jobs?min_yoe=0&max_yoe=100&page=4
+2026-05-10 13:43:04,120 | INFO     | scraper |     54 cards found
+2026-05-10 13:43:04,149 | INFO     | scraper |     ✅ NEW  : Executive Secretary and Office Administrative Assistant
+2026-05-10 13:43:04,166 | INFO     | scraper |     ✅ NEW  : Senior Education Expert
+2026-05-10 13:43:04,185 | INFO     | scraper |     ✅ NEW  : Head, Accounting and Finance Unit
+2026-05-10 13:43:04,201 | INFO     | scraper |     ✅ NEW  : Senior Examination and Certifications Expert
+2026-05-10 13:43:04,218 | INFO     | scraper |     ✅ NEW  : Senior Member Engagement Expert
+2026-05-10 13:43:04,237 | INFO     | scraper |     ✅ NEW  : Procurement Expert
+2026-05-10 13:43:04,255 | INFO     | scraper |     ✅ NEW  : Senior ICT and Digital Expert
+2026-05-10 13:43:04,274 | INFO     | scraper |     ✅ NEW  : Senior Admission Expert
+2026-05-10 13:43:04,295 | INFO     | scraper |     ✅ NEW  : Coffee Processing Officer
+2026-05-10 13:43:04,312 | INFO     | scraper |     ✅ NEW  : Documentation Officer
+2026-05-10 13:43:04,329 | INFO     | scraper |     ✅ NEW  : Cupping Assistant
+2026-05-10 13:43:04,355 | INFO     | scraper |     ✅ NEW  : Grant Finance Manager
+2026-05-10 13:43:04,371 | INFO     | scraper |     ✅ NEW  : Waiter
+2026-05-10 13:43:04,390 | INFO     | scraper |     ✅ NEW  : Routine immunization Support Manager
+2026-05-10 13:43:04,410 | INFO     | scraper |     ✅ NEW  : Warehouse Supervisor
+2026-05-10 13:43:04,426 | INFO     | scraper |     ✅ NEW  : Finance and  Administration Manager
+2026-05-10 13:43:04,445 | INFO     | scraper |     ✅ NEW  : Program Coordinator – Cleft Lip & Palate
+2026-05-10 13:43:04,462 | INFO     | scraper |     ✅ NEW  : Mobile App Developer (End-to-End)
+2026-05-10 13:43:04,480 | INFO     | scraper |     ✅ NEW  : Project Coordinator- Dessie (Children in Street Situation Project)
+2026-05-10 13:43:04,500 | INFO     | scraper |     ✅ NEW  : Invitation to RFO for the selection of Insurance Broker. (RFO submitted must be in accordance with the instructions outlined in the TOR and RFO document) REF: RFO-ADD-ZZ1-50102
+2026-05-10 13:43:04,521 | INFO     | scraper |     ✅ NEW  : ELECTROMECHANICAL
+2026-05-10 13:43:04,541 | INFO     | scraper |     ✅ NEW  : Auditor
+2026-05-10 13:43:04,559 | INFO     | scraper |     ✅ NEW  : Admin and Staff Assistant
+2026-05-10 13:43:04,578 | INFO     | scraper |     ✅ NEW  : Branch Cashier (2)
+2026-05-10 13:43:04,598 | INFO     | scraper |     ✅ NEW  : Senior Audit Follow up and Analysis Officer
+2026-05-10 13:43:04,615 | INFO     | scraper |     ✅ NEW  : Junior Battery Charging Technician
+2026-05-10 13:43:04,639 | INFO     | scraper |     ✅ NEW  : Routine immunization Support Manager
+2026-05-10 13:43:04,656 | INFO     | scraper |     ✅ NEW  : Community Development Facilitator (CDF)
+2026-05-10 13:43:04,673 | INFO     | scraper |     ✅ NEW  : Planning and Financial Analyst Manager
+2026-05-10 13:43:04,696 | INFO     | scraper |     ✅ NEW  : Finance and  Administration Manager
+2026-05-10 13:43:04,727 | INFO     | scraper |     ✅ NEW  : Special Advisor for Field Epidemiology Program
+2026-05-10 13:43:04,745 | INFO     | scraper |     ✅ NEW  : Special Advisor for Field Epidemiology Program
+2026-05-10 13:43:07,166 | INFO     | scraper |   📄 Page 5/5
+2026-05-10 13:43:08,264 | INFO     | scraper |   [WEB] → https://www.hahu.jobs/jobs?min_yoe=0&max_yoe=100&page=5
+2026-05-10 13:43:11,813 | INFO     | scraper |     54 cards found
+2026-05-10 13:43:14,347 | INFO     | scraper |   📄 Page 5/5
+2026-05-10 13:43:15,513 | INFO     | scraper |   [WEB] → https://www.hahu.jobs/jobs?min_yoe=0&max_yoe=100&page=5
+2026-05-10 13:43:19,415 | INFO     | scraper |     54 cards found
+2026-05-10 13:43:19,460 | INFO     | scraper |     ✅ NEW  : Deputy Operation Manager
+2026-05-10 13:43:19,486 | INFO     | scraper |     ✅ NEW  : Senior Marketing Officer
+2026-05-10 13:43:19,508 | INFO     | scraper |     ✅ NEW  : General Manager (GM)
+2026-05-10 13:43:19,542 | INFO     | scraper |     ✅ NEW  : HR Manager
+2026-05-10 13:43:19,562 | INFO     | scraper |     ✅ NEW  : Junior Accountant
+2026-05-10 13:43:19,579 | INFO     | scraper |     ✅ NEW  : Project Officer- Reintegration (Children in Street Situation Project - Dessie)
+2026-05-10 13:43:19,600 | INFO     | scraper |     ✅ NEW  : General Accountant
+2026-05-10 13:43:19,623 | INFO     | scraper |     ✅ NEW  : Senior EMR Coordinator
+2026-05-10 13:43:19,640 | INFO     | scraper |     ✅ NEW  : Cashier
+2026-05-10 13:43:19,657 | INFO     | scraper |     ✅ NEW  : Risk & Compliance Officer
+2026-05-10 13:43:19,677 | INFO     | scraper |     ✅ NEW  : Junior Pharmacist
+2026-05-10 13:43:19,701 | INFO     | scraper |     ✅ NEW  : Head, Transport and Deployment Department
+2026-05-10 13:43:19,723 | INFO     | scraper |     ✅ NEW  : Transit and Clearance Officer I
+2026-05-10 13:43:19,766 | INFO     | scraper |     ✅ NEW  : Senior Assessor I
+2026-05-10 13:43:19,787 | INFO     | scraper |     ✅ NEW  : Branch Manager Grade C
+2026-05-10 13:43:19,805 | INFO     | scraper |     ✅ NEW  : Maintenance Engineer (ATM Work Shop)
+2026-05-10 13:43:19,820 | INFO     | scraper |     ✅ NEW  : Junior Environmental, Health and Safety Officer (Junior EHS)
+2026-05-10 13:43:19,841 | INFO     | scraper |     ✅ NEW  : IT Security Officer
+2026-05-10 13:43:19,861 | INFO     | scraper |     ✅ NEW  : Branch Manager II
+2026-05-10 13:43:19,882 | INFO     | scraper |     ✅ NEW  : Head, General Accounts Department
+2026-05-10 13:43:19,905 | INFO     | scraper |     ✅ NEW  : Senior Accountant
+2026-05-10 13:43:19,927 | INFO     | scraper |     ✅ NEW  : Branch Manager Ⅰ
+2026-05-10 13:43:19,945 | INFO     | scraper |     ✅ NEW  : Hotel Operations Manager
+2026-05-10 13:43:22,405 | INFO     | scraper |   Web done — New: 100 | Dup: 170
+2026-05-10 13:43:23,047 | INFO     | telethon.crypto.libssl | Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2026-05-10 13:43:23,048 | INFO     | telethon.crypto.aes | cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2026-05-10 13:43:23,652 | INFO     | telethon.network.mtprotosender | Connecting to 149.154.167.91:443/TcpFull...
+2026-05-10 13:43:23,809 | INFO     | telethon.network.mtprotosender | Connection to 149.154.167.91:443/TcpFull complete!
+2026-05-10 13:43:24,934 | INFO     | scraper |   [TG] Scanning @freelance_ethio (last 30 msgs)…
+2026-05-10 13:43:25,381 | INFO     | scraper |     ✅ NEW TG: Job Title: **Junior TikTok video Editor / ቪዲዮ ኤዲተር**
+2026-05-10 13:43:25,545 | INFO     | scraper |     ✅ NEW TG: Job Title: **ሴት የኮስሞቲክስ ሽያጭ ሰራተኛ**
+2026-05-10 13:43:25,562 | INFO     | scraper |     ✅ NEW TG: Job Title: **Tender & Quantity Survey Enginee**
+2026-05-10 13:43:25,580 | INFO     | scraper |     ✅ NEW TG: Job Title: **Sales supervisor**
+2026-05-10 13:43:25,598 | INFO     | scraper |     ✅ NEW TG: Job Title: **content creator& digital marketer**
+2026-05-10 13:43:25,616 | INFO     | scraper |     ✅ NEW TG: Job Title: **Supervisor for a supermarket**
+2026-05-10 13:43:25,635 | INFO     | scraper |     ✅ NEW TG: Job Title: **Senior Laboratory Technician**
+2026-05-10 13:43:25,652 | INFO     | scraper |     ✅ NEW TG: Job Title: **Freshman Course Instructors(Teachers)**
+2026-05-10 13:43:25,668 | INFO     | scraper |     ✅ NEW TG: Job Title: **waitress & Cashier**
+2026-05-10 13:43:25,684 | INFO     | scraper |     ✅ NEW TG: Job Title: **sales Agent**
+2026-05-10 13:43:25,700 | INFO     | scraper |     ✅ NEW TG: Job Title: **Customer acquisition agents**
+2026-05-10 13:43:25,713 | INFO     | scraper |     ✅ NEW TG: Job Title: **outdoor sales**
+2026-05-10 13:43:25,730 | INFO     | scraper |     ✅ NEW TG: Job Title: **Front Desk Coordinator / Receptionist**
+2026-05-10 13:43:25,752 | INFO     | scraper |     ✅ NEW TG: Job Title: **Social Media Manager**
+2026-05-10 13:43:25,770 | INFO     | scraper |     ✅ NEW TG: Job Title: **Senior Graphics Designer**
+2026-05-10 13:43:25,787 | INFO     | scraper |     ✅ NEW TG: Job Title: **Videographer & Video Editor**
+2026-05-10 13:43:25,805 | INFO     | scraper |     ✅ NEW TG: Job Title: **Content Creator / Copywriter**
+2026-05-10 13:43:25,823 | INFO     | scraper |     ✅ NEW TG: Job Title: **Sales Representative**
+2026-05-10 13:43:25,838 | INFO     | scraper |     ✅ NEW TG: Job Title: **Senior Sales Driver (FMCG)**
+2026-05-10 13:43:25,850 | INFO     | scraper |     ✅ NEW TG: Job Title: **Shop and Tiktok live sales**
+2026-05-10 13:43:25,867 | INFO     | scraper |     ✅ NEW TG: Job Title: **Driver**
+2026-05-10 13:43:25,884 | INFO     | scraper |     ✅ NEW TG: Job Title: **Receiptionist**
+2026-05-10 13:43:25,902 | INFO     | scraper |     ✅ NEW TG: Job Title: **Junior Software Engineer**
+2026-05-10 13:43:25,916 | INFO     | scraper |     ✅ NEW TG: Job Title: **Human Resources Officer**
+2026-05-10 13:43:25,934 | INFO     | scraper |     ✅ NEW TG: Job Title: **Daycare Nanny**
+2026-05-10 13:43:25,956 | INFO     | scraper |     ✅ NEW TG: Job Title: **Junior Assistant**
+2026-05-10 13:43:25,974 | INFO     | scraper |     ✅ NEW TG: Job Title: **Cashier**
+2026-05-10 13:43:25,990 | INFO     | scraper |     ✅ NEW TG: Job Title: **የሞተር ብስክሌት ማድረስ አጋር (በራሳቸው ሞተር ለሚሰሩ)**
+2026-05-10 13:43:26,008 | INFO     | scraper |     ✅ NEW TG: Job Title: **የሞተር ብስክሌት አሽከርካሪዎች (የድርጅት ሞተር)**
+2026-05-10 13:43:26,026 | INFO     | scraper |     ✅ NEW TG: ለHR እና Business Owners ልዩ ዝግጅት እያዘጋጀን ነው! 🎬🇪🇹
+2026-05-10 13:43:26,029 | INFO     | telethon.network.mtprotosender | Disconnecting from 149.154.167.91:443/TcpFull...
+2026-05-10 13:43:26,031 | INFO     | telethon.network.mtprotosender | Disconnection from 149.154.167.91:443/TcpFull complete!
+2026-05-10 13:43:26,041 | INFO     | scraper |   TG done — New: 30 | Dup: 0
+2026-05-10 13:43:26,042 | INFO     | scraper | ============================================================
+2026-05-10 13:43:26,042 | INFO     | scraper | ✅ Cycle done | Web new: 100 | TG new: 30 | Dup: 170
+2026-05-10 13:43:26,042 | INFO     | scraper | ============================================================
+2026-05-10 13:43:31,451 | INFO     | scraper |     54 cards found
+2026-05-10 13:43:31,559 | INFO     | scraper |     ✅ NEW  : Senior Special Advisor for Grant Finance Management
+2026-05-10 13:43:31,616 | INFO     | scraper |     ✅ NEW  : Personnel Officer
+2026-05-10 13:43:34,025 | INFO     | scraper |   Web done — New: 2 | Dup: 268
+2026-05-10 13:43:34,498 | INFO     | telethon.crypto.libssl | Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2026-05-10 13:43:34,500 | INFO     | telethon.crypto.aes | cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2026-05-10 13:43:34,734 | INFO     | telethon.network.mtprotosender | Connecting to 149.154.167.91:443/TcpFull...
+2026-05-10 13:43:34,873 | INFO     | telethon.network.mtprotosender | Connection to 149.154.167.91:443/TcpFull complete!
+2026-05-10 13:43:35,981 | INFO     | scraper |   [TG] Scanning @freelance_ethio (last 30 msgs)…
+2026-05-10 13:43:36,366 | INFO     | telethon.network.mtprotosender | Disconnecting from 149.154.167.91:443/TcpFull...
+2026-05-10 13:43:36,369 | INFO     | telethon.network.mtprotosender | Disconnection from 149.154.167.91:443/TcpFull complete!
+2026-05-10 13:43:36,380 | INFO     | scraper |   TG done — New: 0 | Dup: 30
+2026-05-10 13:43:36,380 | INFO     | scraper | ============================================================
+2026-05-10 13:43:36,380 | INFO     | scraper | ✅ Cycle done | Web new: 2 | TG new: 0 | Dup: 298
+2026-05-10 13:43:36,382 | INFO     | scraper | ============================================================
+2026-05-10 14:30:44,853 | INFO     | scraper | 🔂 Single-run mode (--once)
+2026-05-10 14:30:44,857 | INFO     | scraper | ============================================================
+2026-05-10 14:30:44,857 | INFO     | scraper | 🕷  Combined scrape cycle started
+2026-05-10 14:30:44,858 | INFO     | scraper | ============================================================
+2026-05-10 14:30:44,859 | INFO     | scraper | 🌐 Web scrape: pages 1–5
+2026-05-10 14:30:44,859 | INFO     | scraper |   📄 Page 1/5
+2026-05-10 14:30:46,000 | INFO     | scraper |   [WEB] → https://www.hahu.jobs/jobs?min_yoe=0&max_yoe=100&page=1
+2026-05-10 14:30:56,906 | INFO     | scraper |     54 cards found
+2026-05-10 14:30:59,470 | INFO     | scraper |   📄 Page 2/5
+2026-05-10 14:31:00,495 | INFO     | scraper |   [WEB] → https://www.hahu.jobs/jobs?min_yoe=0&max_yoe=100&page=2
+2026-05-10 14:31:11,412 | INFO     | scraper |     54 cards found
+2026-05-10 14:31:13,965 | INFO     | scraper |   📄 Page 3/5
+2026-05-10 14:31:14,925 | INFO     | scraper |   [WEB] → https://www.hahu.jobs/jobs?min_yoe=0&max_yoe=100&page=3
+2026-05-10 14:31:27,668 | INFO     | scraper |     54 cards found
+2026-05-10 14:31:30,368 | INFO     | scraper |   📄 Page 4/5
+2026-05-10 14:31:31,421 | INFO     | scraper |   [WEB] → https://www.hahu.jobs/jobs?min_yoe=0&max_yoe=100&page=4
+2026-05-10 14:31:51,400 | INFO     | scraper |     54 cards found
+2026-05-10 14:31:51,523 | INFO     | scraper |     ✅ NEW  : Senior Mechanical Technician
+2026-05-10 14:31:51,549 | INFO     | scraper |     ✅ NEW  : Store Keeper
+2026-05-10 14:31:51,576 | INFO     | scraper |     ✅ NEW  : Project Officer- Strengthening Social Structures (Children's in Street Situation Project, Dessie)
+2026-05-10 14:31:54,131 | INFO     | scraper |   📄 Page 5/5
+2026-05-10 14:31:55,176 | INFO     | scraper |   [WEB] → https://www.hahu.jobs/jobs?min_yoe=0&max_yoe=100&page=5
+2026-05-10 14:32:06,383 | INFO     | scraper |     54 cards found
+2026-05-10 14:32:06,451 | INFO     | scraper |     ✅ NEW  : Senior EMR Coordinator
+2026-05-10 14:32:06,470 | INFO     | scraper |     ✅ NEW  : LAF officer
+2026-05-10 14:32:06,559 | INFO     | scraper |     ✅ NEW  : Tourism Market Analyst IV
+2026-05-10 14:32:06,579 | INFO     | scraper |     ✅ NEW  : Junior Underwriting Officer
+2026-05-10 14:32:06,608 | INFO     | scraper |     ✅ NEW  : የፋይናንስ ዩኒት ኃላፊ – Head Finance Unit – For Jerr Integrated Food Park
+2026-05-10 14:32:06,631 | INFO     | scraper |     ✅ NEW  : Senior E-Banking Officer
+2026-05-10 14:32:06,657 | INFO     | scraper |     ✅ NEW  : Senior Technical Trainer
+2026-05-10 14:32:09,092 | INFO     | scraper |   Web done — New: 10 | Dup: 260
+2026-05-10 14:32:09,637 | INFO     | telethon.crypto.libssl | Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2026-05-10 14:32:09,638 | INFO     | telethon.crypto.aes | cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2026-05-10 14:32:09,918 | INFO     | telethon.network.mtprotosender | Connecting to 149.154.167.91:443/TcpFull...
+2026-05-10 14:32:10,076 | INFO     | telethon.network.mtprotosender | Connection to 149.154.167.91:443/TcpFull complete!
+2026-05-10 14:32:11,225 | INFO     | scraper |   [TG] Scanning @freelance_ethio (last 100 msgs)…
+2026-05-10 14:32:12,067 | INFO     | scraper |     ✅ NEW TG: በአዲስ አበባ ለሚገኙ ስራ ፈላጊዎች ልዩ ዝግጅት እየቀረፅን ነው! 🎥🇪🇹✨
+2026-05-10 14:32:12,090 | INFO     | scraper |     ✅ NEW TG: Job Title: **Social Media Manager**
+2026-05-10 14:32:12,110 | INFO     | scraper |     ✅ NEW TG: Job Title: **Senior Accountant**
+2026-05-10 14:32:12,127 | INFO     | scraper |     ✅ NEW TG: Job Title: **Senior short form editor**
+2026-05-10 14:32:12,145 | INFO     | scraper |     ✅ NEW TG: Job Title: **Executive Secretary**
+2026-05-10 14:32:12,162 | INFO     | scraper |     ✅ NEW TG: Job Title: **Garment Pattern maker**
+2026-05-10 14:32:12,179 | INFO     | scraper |     ✅ NEW TG: Job Title: **Driver (ሹፌር)**
+2026-05-10 14:32:12,197 | INFO     | scraper |     ✅ NEW TG: Job Title: **Accountant and Admin Assistant**
+2026-05-10 14:32:12,214 | INFO     | scraper |     ✅ NEW TG: Job Title: **Document Control Officer**
+2026-05-10 14:32:12,234 | INFO     | scraper |     ✅ NEW TG: Job Title: **Sales**
+2026-05-10 14:32:12,251 | INFO     | scraper |     ✅ NEW TG: Job Title: **cashier sales**
+2026-05-10 14:32:12,268 | INFO     | scraper |     ✅ NEW TG: Job Title: **EV Diagnosis Specialist**
+2026-05-10 14:32:12,286 | INFO     | scraper |     ✅ NEW TG: Job Title: **Upwork Account Manager**
+2026-05-10 14:32:12,302 | INFO     | scraper |     ✅ NEW TG: Job Title: **Junior Finance**
+2026-05-10 14:32:12,320 | INFO     | scraper |     ✅ NEW TG: Job Title: **Sales**
+2026-05-10 14:32:12,337 | INFO     | scraper |     ✅ NEW TG: Job Title: **Marketing and sales manager**
+2026-05-10 14:32:12,355 | INFO     | scraper |     ✅ NEW TG: Job Title: **Sales representative**
+2026-05-10 14:32:12,371 | INFO     | scraper |     ✅ NEW TG: Job Title: **Liaison Officer**
+2026-05-10 14:32:12,387 | INFO     | scraper |     ✅ NEW TG: Job Title: **Junior Accountant**
+2026-05-10 14:32:12,406 | INFO     | scraper |     ✅ NEW TG: Job Title: **Marketing/sales intern**
+2026-05-10 14:32:12,423 | INFO     | scraper |     ✅ NEW TG: Job Title: **Customer service**
+2026-05-10 14:32:12,441 | INFO     | scraper |     ✅ NEW TG: Job Title: **Head of Digital Marketing**
+2026-05-10 14:32:12,459 | INFO     | scraper |     ✅ NEW TG: Job Title: **Social Media Content Lead(Host and Writer)**
+2026-05-10 14:32:12,477 | INFO     | scraper |     ✅ NEW TG: **__ሰው አነሰ? Processኡ ረዘመ? ብቁ ሰው ጠፋ? __**
+2026-05-10 14:32:12,492 | INFO     | scraper |     ✅ NEW TG: Job Title: **Manager**
+2026-05-10 14:32:12,509 | INFO     | scraper |     ✅ NEW TG: - - - - - - - - CLOSED - - - - - - - -
+2026-05-10 14:32:12,528 | INFO     | scraper |     ✅ NEW TG: Job Title: **Junior IT Support Officer**
+2026-05-10 14:32:12,544 | INFO     | scraper |     ✅ NEW TG: Job Title: **Digital Marketing Manager**
+2026-05-10 14:32:12,563 | INFO     | scraper |     ✅ NEW TG: Job Title: **ስፓ ሬሴፕሽኒስት / Spa Receptionist**
+2026-05-10 14:32:12,579 | INFO     | scraper |     ✅ NEW TG: Job Title: **IT Support Technician (Junior)**
+2026-05-10 14:32:12,598 | INFO     | scraper |     ✅ NEW TG: Job Title: **Pottery and Painting Trainer and Caregiver for 
+2026-05-10 14:32:12,616 | INFO     | scraper |     ✅ NEW TG: Job Title: **Structural engineer**
+2026-05-10 14:32:12,636 | INFO     | scraper |     ✅ NEW TG: Job Title: **Senior Accountant**
+2026-05-10 14:32:12,655 | INFO     | scraper |     ✅ NEW TG: Job Title: **Graphics Designer & Content creator**
+2026-05-10 14:32:12,673 | INFO     | scraper |     ✅ NEW TG: Job Title: **Video Editor**
+2026-05-10 14:32:12,692 | INFO     | scraper |     ✅ NEW TG: Job Title: **Visa & Travel Consultant**
+2026-05-10 14:32:12,709 | INFO     | scraper |     ✅ NEW TG: Job Title: **One to One teacher(For Adolescents)**
+2026-05-10 14:32:12,728 | INFO     | scraper |     ✅ NEW TG: Job Title: **Female marketing manager**
+2026-05-10 14:32:12,744 | INFO     | scraper |     ✅ NEW TG: Job Title: **Executive Secretary**
+2026-05-10 14:32:12,762 | INFO     | scraper |     ✅ NEW TG: Job Title: **Video Editor**
+2026-05-10 14:32:12,780 | INFO     | scraper |     ✅ NEW TG: Job Title: **One to One Teacher**
+2026-05-10 14:32:12,798 | INFO     | scraper |     ✅ NEW TG: Job Title: **procurement officer**
+2026-05-10 14:32:12,816 | INFO     | scraper |     ✅ NEW TG: Job Title: **ስቶር ኪፐር**
+2026-05-10 14:32:12,834 | INFO     | scraper |     ✅ NEW TG: Job Title: **Event security**
+2026-05-10 14:32:12,853 | INFO     | scraper |     ✅ NEW TG: Job Title: **Junior Showroom Assistant**
+2026-05-10 14:32:12,870 | INFO     | scraper |     ✅ NEW TG: Job Title: **Graphic Designer & Motion Graphics Designer**
+2026-05-10 14:32:12,890 | INFO     | scraper |     ✅ NEW TG: Job Title: **Video Editor**
+2026-05-10 14:32:12,945 | INFO     | scraper |     ✅ NEW TG: Job Title: **Photo Editor**
+2026-05-10 14:32:12,962 | INFO     | scraper |     ✅ NEW TG: Job Title: **Bar and Restaurant Manager**
+2026-05-10 14:32:12,978 | INFO     | scraper |     ✅ NEW TG: Job Title: **HR Recruiter / Talent Acquisition Specialist**
+2026-05-10 14:32:12,992 | INFO     | scraper |     ✅ NEW TG: ⭐️**TODAY Top Job Picks** 🔔
+2026-05-10 14:32:13,014 | INFO     | scraper |     ✅ NEW TG: Job Title: **የሞተር ሳይክል ሾፌር እና የጣሪያ መለኪያ ባለሙያ**
+2026-05-10 14:32:13,029 | INFO     | scraper |     ✅ NEW TG: Job Title: **Accountant**
+2026-05-10 14:32:13,048 | INFO     | scraper |     ✅ NEW TG: - - - - - - - - CLOSED - - - - - - - -
+2026-05-10 14:32:13,064 | INFO     | scraper |     ✅ NEW TG: Job Title: **Purchaser**
+2026-05-10 14:32:13,080 | INFO     | scraper |     ✅ NEW TG: Job Title: **Accountant**
+2026-05-10 14:32:13,098 | INFO     | scraper |     ✅ NEW TG: Job Title: **Accounting Intern**
+2026-05-10 14:32:13,113 | INFO     | scraper |     ✅ NEW TG: Job Title: **Personal assistant**
+2026-05-10 14:32:13,131 | INFO     | scraper |     ✅ NEW TG: Job Title: **Remote English Tutor**
+2026-05-10 14:32:13,148 | INFO     | scraper |     ✅ NEW TG: Job Title: **Part time sales/Gig worker**
+2026-05-10 14:32:13,163 | INFO     | scraper |     ✅ NEW TG: Job Title: **Sales person**
+2026-05-10 14:32:13,186 | INFO     | scraper |     ✅ NEW TG: Job Title: **Junior Accountant & Administrative Officer**
+2026-05-10 14:32:13,204 | INFO     | scraper |     ✅ NEW TG: Job Title: **Office manager and Customer service**
+2026-05-10 14:32:13,223 | INFO     | scraper |     ✅ NEW TG: Job Title: **Professional nanny**
+2026-05-10 14:32:13,238 | INFO     | scraper |     ✅ NEW TG: Job Title: **Senior B2B & Tender Sales Executive**
+2026-05-10 14:32:13,255 | INFO     | scraper |     ✅ NEW TG: Job Title: **Draftsman**
+2026-05-10 14:32:13,271 | INFO     | scraper |     ✅ NEW TG: Job Title: **Bid Expert & Account Manager for a leading ICT 
+2026-05-10 14:32:13,289 | INFO     | scraper |     ✅ NEW TG: Job Title: **Enterprise Business Operations Support Officer*
+2026-05-10 14:32:13,291 | INFO     | telethon.network.mtprotosender | Disconnecting from 149.154.167.91:443/TcpFull...
+2026-05-10 14:32:13,292 | INFO     | telethon.network.mtprotosender | Disconnection from 149.154.167.91:443/TcpFull complete!
+2026-05-10 14:32:13,301 | INFO     | scraper |   TG done — New: 68 | Dup: 30
+2026-05-10 14:32:13,301 | INFO     | scraper | ============================================================
+2026-05-10 14:32:13,302 | INFO     | scraper | ✅ Cycle done | Web new: 10 | TG new: 68 | Dup: 290
+2026-05-10 14:32:13,302 | INFO     | scraper | ============================================================
+2026-05-10 15:47:58,606 | INFO     | scraper | 🔂 Single-run mode (--once)
+2026-05-10 15:47:58,648 | INFO     | scraper | ============================================================
+2026-05-10 15:47:58,648 | INFO     | scraper | 🕷  Combined scrape cycle started
+2026-05-10 15:47:58,648 | INFO     | scraper | ============================================================
+2026-05-10 15:47:58,650 | INFO     | scraper | 🌐 Web scrape: pages 1–5
+2026-05-10 15:47:58,650 | INFO     | scraper |   📄 Page 1/5
+2026-05-10 15:48:16,205 | INFO     | scraper |   [WEB] → https://www.hahu.jobs/jobs?min_yoe=0&max_yoe=100&page=1
+2026-05-10 15:48:28,120 | INFO     | scraper |     54 cards found
+2026-05-10 15:48:28,129 | INFO     | scraper |     ✅ NEW  : Shop Sales Associate
+2026-05-10 15:48:28,146 | INFO     | scraper |     ✅ NEW  : MICE Sales Expert IV
+2026-05-10 15:48:28,157 | INFO     | scraper |     ✅ NEW  : Research and Business Development Officer IV
+2026-05-10 15:48:28,172 | INFO     | scraper |     ✅ NEW  : Call Center Agent
+2026-05-10 15:48:28,185 | INFO     | scraper |     ✅ NEW  : Tourism Infrastructure Development Officer IV
+2026-05-10 15:48:28,198 | INFO     | scraper |     ✅ NEW  : Brand Ambassador
+2026-05-10 15:48:28,210 | INFO     | scraper |     ✅ NEW  : Assistant Event Manager
+2026-05-10 15:48:28,224 | INFO     | scraper |     ✅ NEW  : Tourist Facilities Construction Expert III
+2026-05-10 15:48:28,237 | INFO     | scraper |     ✅ NEW  : Procurement Officer
+2026-05-10 15:48:28,252 | INFO     | scraper |     ✅ NEW  : Junior Marketing Officer
+2026-05-10 15:48:28,265 | INFO     | scraper |     ✅ NEW  : Junior Sales
+2026-05-10 15:48:28,280 | INFO     | scraper |     ✅ NEW  : Sales Representative
+2026-05-10 15:48:28,293 | INFO     | scraper |     ✅ NEW  : Junior Accountant
+2026-05-10 15:48:28,306 | INFO     | scraper |     ✅ NEW  : Customer Service Representative
+2026-05-10 15:48:28,320 | INFO     | scraper |     ✅ NEW  : Senior Accountant
+2026-05-10 15:48:28,334 | INFO     | scraper |     ✅ NEW  : Sales and Marketing Officer
+2026-05-10 15:48:28,348 | INFO     | scraper |     ✅ NEW  : Junior Accountant
+2026-05-10 15:48:28,362 | INFO     | scraper |     ✅ NEW  : Lab Technician
+2026-05-10 15:48:28,375 | INFO     | scraper |     ✅ NEW  : Security Officer
+2026-05-10 15:48:28,387 | INFO     | scraper |     ✅ NEW  : Accountant
+2026-05-10 15:48:28,402 | INFO     | scraper |     ✅ NEW  : Management Trainee
+2026-05-10 15:48:28,417 | INFO     | scraper |     ✅ NEW  : Operator III
+2026-05-10 15:48:28,429 | INFO     | scraper |     ✅ NEW  : Call Receptionist
+2026-05-10 15:48:28,442 | INFO     | scraper |     ✅ NEW  : Logistics Officer
+2026-05-10 15:48:28,455 | INFO     | scraper |     ✅ NEW  : Marketing Officer
+2026-05-10 15:48:28,507 | INFO     | scraper |     ✅ NEW  : Supervisor
+2026-05-10 15:48:28,519 | INFO     | scraper |     ✅ NEW  : Roasting Operator
+2026-05-10 15:48:28,530 | INFO     | scraper |     ✅ NEW  : Quality Assurance and Controlling Engineer
+2026-05-10 15:48:28,542 | INFO     | scraper |     ✅ NEW  : Quality Control Officer
+2026-05-10 15:48:28,554 | INFO     | scraper |     ✅ NEW  : Security Guard
+2026-05-10 15:48:28,566 | INFO     | scraper |     ✅ NEW  : Production Supervisor
+2026-05-10 15:48:28,575 | INFO     | scraper |     ✅ NEW  : Junior Outdoor Sales Representative
+2026-05-10 15:48:28,590 | INFO     | scraper |     ✅ NEW  : 3D Developer
+2026-05-10 15:48:28,602 | INFO     | scraper |     ✅ NEW  : Content Writer
+2026-05-10 15:48:28,612 | INFO     | scraper |     ✅ NEW  : Finance Officer
+2026-05-10 15:48:28,624 | INFO     | scraper |     ✅ NEW  : Secretary
+2026-05-10 15:48:28,634 | INFO     | scraper |     ✅ NEW  : Junior HR Officer
+2026-05-10 15:48:28,648 | INFO     | scraper |     ✅ NEW  : Marketing Officer
+2026-05-10 15:48:28,659 | INFO     | scraper |     ✅ NEW  : Digital Marketing Officer
+2026-05-10 15:48:28,670 | INFO     | scraper |     ✅ NEW  : Enterprise Support Officer
+2026-05-10 15:48:28,679 | INFO     | scraper |     ✅ NEW  : Junior Finance Officer
+2026-05-10 15:48:28,692 | INFO     | scraper |     ✅ NEW  : Driver V
+2026-05-10 15:48:28,704 | INFO     | scraper |     ✅ NEW  : EBU Sales
+2026-05-10 15:48:28,716 | INFO     | scraper |     ✅ NEW  : Inventory & Operations Assistant
+2026-05-10 15:48:28,728 | INFO     | scraper |     ✅ NEW  : Junior Accountant
+2026-05-10 15:48:28,741 | INFO     | scraper |     ✅ NEW  : Graphics Designer
+2026-05-10 15:48:28,751 | INFO     | scraper |     ✅ NEW  : Interior Designer
+2026-05-10 15:48:28,765 | INFO     | scraper |     ✅ NEW  : Graphics Designer (Social Media)
+2026-05-10 15:48:28,775 | INFO     | scraper |     ✅ NEW  : Store Keeper
+2026-05-10 15:48:28,788 | INFO     | scraper |     ✅ NEW  : Driver VI ( High Bed /Low Bed)
+2026-05-10 15:48:28,800 | INFO     | scraper |     ✅ NEW  : Field Sales Officer
+2026-05-10 15:48:28,812 | INFO     | scraper |     ✅ NEW  : Sales Coordinator
+2026-05-10 15:48:28,823 | INFO     | scraper |     ✅ NEW  : Sales Representative Intern
+2026-05-10 15:48:28,836 | INFO     | scraper |     ✅ NEW  : Field Sales Officer
+2026-05-10 15:48:31,101 | INFO     | scraper |   📄 Page 2/5
+2026-05-10 15:48:31,816 | INFO     | scraper |   [WEB] → https://www.hahu.jobs/jobs?min_yoe=0&max_yoe=100&page=2
+2026-05-10 15:48:44,049 | INFO     | scraper |     54 cards found
+2026-05-10 15:48:44,074 | INFO     | scraper |     ✅ NEW  : Junior Accountant
+2026-05-10 15:48:44,090 | INFO     | scraper |     ✅ NEW  : Technical Officer
+2026-05-10 15:48:44,104 | INFO     | scraper |     ✅ NEW  : Digital Educational Content Creator
+2026-05-10 15:48:44,117 | INFO     | scraper |     ✅ NEW  : Import and Export Officer
+2026-05-10 15:48:44,136 | INFO     | scraper |     ✅ NEW  : Web & Mobile Application Developer
+2026-05-10 15:48:44,150 | INFO     | scraper |     ✅ NEW  : Elevator Technician
+2026-05-10 15:48:44,164 | INFO     | scraper |     ✅ NEW  : Senior Real Estate Sales Representative
+2026-05-10 15:48:44,178 | INFO     | scraper |     ✅ NEW  : Sales Promoter
+2026-05-10 15:48:44,196 | INFO     | scraper |     ✅ NEW  : Transport Operations Officer
+2026-05-10 15:48:44,212 | INFO     | scraper |     ✅ NEW  : Junior Accountant
+2026-05-10 15:48:44,225 | INFO     | scraper |     ✅ NEW  : Sales & Marketing Officer
+2026-05-10 15:48:44,239 | INFO     | scraper |     ✅ NEW  : Administrative Secretary
+2026-05-10 15:48:44,255 | INFO     | scraper |     ✅ NEW  : Senior Technical Expert
+2026-05-10 15:48:44,270 | INFO     | scraper |     ✅ NEW  : Human Resources Officer
+2026-05-10 15:48:44,286 | INFO     | scraper |     ✅ NEW  : Sales Officer
+2026-05-10 15:48:44,300 | INFO     | scraper |     ✅ NEW  : Technical Manager
+2026-05-10 15:48:44,313 | INFO     | scraper |     ✅ NEW  : Admin & Finance Officer
+2026-05-10 15:48:44,329 | INFO     | scraper |     ✅ NEW  : Machinery Operator
+2026-05-10 15:48:44,344 | INFO     | scraper |     ✅ NEW  : Mid-level Business Analyst
+2026-05-10 15:48:44,357 | INFO     | scraper |     ✅ NEW  : Senior Accountant
+2026-05-10 15:48:44,372 | INFO     | scraper |     ✅ NEW  : Junior Technician
+2026-05-10 15:48:44,387 | INFO     | scraper |     ✅ NEW  : Safaricom Brand Ambassador
+2026-05-10 15:48:44,430 | INFO     | scraper |     ✅ NEW  : Laboratory Technologist
+2026-05-10 15:48:44,442 | INFO     | scraper |     ✅ NEW  : Banner Installation Officer
+2026-05-10 15:48:44,459 | INFO     | scraper |     ✅ NEW  : Accountant
+2026-05-10 15:48:44,471 | INFO     | scraper |     ✅ NEW  : Elevator Technician
+2026-05-10 15:48:44,487 | INFO     | scraper |     ✅ NEW  : Instructor(Researcher and Community Service)
+2026-05-10 15:48:44,505 | INFO     | scraper |     ✅ NEW  : Sales
+2026-05-10 15:48:44,520 | INFO     | scraper |     ✅ NEW  : Social Media Manager
+2026-05-10 15:48:44,534 | INFO     | scraper |     ✅ NEW  : Mid-level Business Analyst
+2026-05-10 15:48:44,548 | INFO     | scraper |     ✅ NEW  : Real Estate Sales Supervisor
+2026-05-10 15:48:44,562 | INFO     | scraper |     ✅ NEW  : sales coordinator
+2026-05-10 15:48:44,573 | INFO     | scraper |     ✅ NEW  : Sales Officer
+2026-05-10 15:48:46,867 | INFO     | scraper |   📄 Page 3/5
+2026-05-10 15:48:47,572 | INFO     | scraper |   [WEB] → https://www.hahu.jobs/jobs?min_yoe=0&max_yoe=100&page=3
+2026-05-10 15:49:00,137 | INFO     | scraper |     54 cards found
+2026-05-10 15:49:00,161 | INFO     | scraper |     ✅ NEW  : Receptionist (Spa)
+2026-05-10 15:49:00,174 | INFO     | scraper |     ✅ NEW  : Creative Designer (Graphic Designer)
+2026-05-10 15:49:00,189 | INFO     | scraper |     ✅ NEW  : Video Lecturer
+2026-05-10 15:49:00,202 | INFO     | scraper |     ✅ NEW  : International Trade Officer
+2026-05-10 15:49:00,216 | INFO     | scraper |     ✅ NEW  : Tutor
+2026-05-10 15:49:00,230 | INFO     | scraper |     ✅ NEW  : Quality Assurance and Controlling Engineer
+2026-05-10 15:49:00,243 | INFO     | scraper |     ✅ NEW  : Messenger
+2026-05-10 15:49:00,257 | INFO     | scraper |     ✅ NEW  : Medical Import & Distribution Manager (Pharmacist)
+2026-05-10 15:49:00,270 | INFO     | scraper |     ✅ NEW  : Construction Materials Sales and Operations Manager
+2026-05-10 15:49:00,284 | INFO     | scraper |     ✅ NEW  : Graphic Design Intern
+2026-05-10 15:49:00,298 | INFO     | scraper |     ✅ NEW  : Junior Copywriter
+2026-05-10 15:49:00,312 | INFO     | scraper |     ✅ NEW  : Tender/Bid Preparation Engineer
+2026-05-10 15:49:00,325 | INFO     | scraper |     ✅ NEW  : Social Media Host
+2026-05-10 15:49:00,345 | INFO     | scraper |     ✅ NEW  : General Services
+2026-05-10 15:49:00,360 | INFO     | scraper |     ✅ NEW  : Sales Supervisor
+2026-05-10 15:49:00,374 | INFO     | scraper |     ✅ NEW  : Marketing Officer
+2026-05-10 15:49:00,388 | INFO     | scraper |     ✅ NEW  : Project Officer – Operations
+2026-05-10 15:49:00,402 | INFO     | scraper |     ✅ NEW  : Store Keeper
+2026-05-10 15:49:00,417 | INFO     | scraper |     ✅ NEW  : Junior Sales Officer
+2026-05-10 15:49:00,430 | INFO     | scraper |     ✅ NEW  : Part-Time Tutor
+2026-05-10 15:49:00,445 | INFO     | scraper |     ✅ NEW  : Junior Transport Operation Officer
+2026-05-10 15:49:00,459 | INFO     | scraper |     ✅ NEW  : Cameraman / Videographer
+2026-05-10 15:49:00,474 | INFO     | scraper |     ✅ NEW  : Driver
+2026-05-10 15:49:00,487 | INFO     | scraper |     ✅ NEW  : Assistant/ Associate Professor
+2026-05-10 15:49:00,500 | INFO     | scraper |     ✅ NEW  : Professor
+2026-05-10 15:49:00,513 | INFO     | scraper |     ✅ NEW  : Plant Coordinator ( Vacancy Code- Hahu 002/2026)
+2026-05-10 15:49:00,524 | INFO     | scraper |     ✅ NEW  : Nurse IV
+2026-05-10 15:49:00,535 | INFO     | scraper |     ✅ NEW  : Professional Nurse II
+2026-05-10 15:49:00,548 | INFO     | scraper |     ✅ NEW  : Pharmacy Technician IV
+2026-05-10 15:49:00,562 | INFO     | scraper |     ✅ NEW  : Sales Associate
+2026-05-10 15:49:00,574 | INFO     | scraper |     ✅ NEW  : Quality Assurance Section Head
+2026-05-10 15:49:00,587 | INFO     | scraper |     ✅ NEW  : Nurse II
+2026-05-10 15:49:00,602 | INFO     | scraper |     ✅ NEW  : Invoice Verification Specialist III
+2026-05-10 15:49:00,613 | INFO     | scraper |     ✅ NEW  : Sewerage Line Installation and Maintenance Worker
+2026-05-10 15:49:00,627 | INFO     | scraper |     ✅ NEW  : Assistant Professor
+2026-05-10 15:49:00,637 | INFO     | scraper |     ✅ NEW  : Nurse III
+2026-05-10 15:49:00,648 | INFO     | scraper |     ✅ NEW  : Finance Specialist
+2026-05-10 15:49:00,662 | INFO     | scraper |     ✅ NEW  : Senior Business Analyst
+2026-05-10 15:49:00,675 | INFO     | scraper |     ✅ NEW  : Senior Cost Accountant
+2026-05-10 15:49:00,692 | INFO     | scraper |     ✅ NEW  : Software Project Manager
+2026-05-10 15:49:00,704 | INFO     | scraper |     ✅ NEW  : Motorist
+2026-05-10 15:49:00,718 | INFO     | scraper |     ✅ NEW  : Dev-Ops Engineer
+2026-05-10 15:49:00,730 | INFO     | scraper |     ✅ NEW  : Senior Finance Officer
+2026-05-10 15:49:00,741 | INFO     | scraper |     ✅ NEW  : HR and Administration Officer
+2026-05-10 15:49:00,754 | INFO     | scraper |     ✅ NEW  : Senior Mechanical (HVAC) Engineer
+2026-05-10 15:49:00,769 | INFO     | scraper |     ✅ NEW  : Senior Accountant
+2026-05-10 15:49:00,783 | INFO     | scraper |     ✅ NEW  : Sales and Marketing Officer
+2026-05-10 15:49:00,799 | INFO     | scraper |     ✅ NEW  : English Teacher
+2026-05-10 15:49:00,813 | INFO     | scraper |     ✅ NEW  : Sales Person
+2026-05-10 15:49:00,826 | INFO     | scraper |     ✅ NEW  : Store Manager
+2026-05-10 15:49:00,838 | INFO     | scraper |     ✅ NEW  : Reception
+2026-05-10 15:49:00,851 | INFO     | scraper |     ✅ NEW  : Sales and Marketing Officer
+2026-05-10 15:49:00,862 | INFO     | scraper |     ✅ NEW  : Senior Software Developer
+2026-05-10 15:49:03,166 | INFO     | scraper |   📄 Page 4/5
+2026-05-10 15:49:03,887 | INFO     | scraper |   [WEB] → https://www.hahu.jobs/jobs?min_yoe=0&max_yoe=100&page=4
+2026-05-10 15:49:48,895 | INFO     | scraper |     54 cards found
+2026-05-10 15:49:48,918 | INFO     | scraper |     ✅ NEW  : Senior Education Expert
+2026-05-10 15:49:48,929 | INFO     | scraper |     ✅ NEW  : Head, Accounting and Finance Unit
+2026-05-10 15:49:48,942 | INFO     | scraper |     ✅ NEW  : Executive Secretary and Office Administrative Assistant
+2026-05-10 15:49:48,957 | INFO     | scraper |     ✅ NEW  : Senior Member Engagement Expert
+2026-05-10 15:49:48,970 | INFO     | scraper |     ✅ NEW  : Senior Admission Expert
+2026-05-10 15:49:48,984 | INFO     | scraper |     ✅ NEW  : Procurement Expert
+2026-05-10 15:49:48,997 | INFO     | scraper |     ✅ NEW  : Senior Examination and Certifications Expert
+2026-05-10 15:49:49,010 | INFO     | scraper |     ✅ NEW  : Senior ICT and Digital Expert
+2026-05-10 15:49:49,024 | INFO     | scraper |     ✅ NEW  : Documentation Officer
+2026-05-10 15:49:49,037 | INFO     | scraper |     ✅ NEW  : Coffee Processing Officer
+2026-05-10 15:49:49,051 | INFO     | scraper |     ✅ NEW  : Bookkeeper
+2026-05-10 15:49:49,066 | INFO     | scraper |     ✅ NEW  : Cupping Assistant
+2026-05-10 15:49:49,080 | INFO     | scraper |     ✅ NEW  : Sales
+2026-05-10 15:49:49,093 | INFO     | scraper |     ✅ NEW  : Equity Finance Advisor
+2026-05-10 15:49:49,108 | INFO     | scraper |     ✅ NEW  : Sales Person
+2026-05-10 15:49:49,122 | INFO     | scraper |     ✅ NEW  : Assistant Manager
+2026-05-10 15:49:49,134 | INFO     | scraper |     ✅ NEW  : Warehouse Supervisor
+2026-05-10 15:49:49,149 | INFO     | scraper |     ✅ NEW  : Community Development Facilitator (CDF)
+2026-05-10 15:49:49,163 | INFO     | scraper |     ✅ NEW  : Elementary and KG Teachers/ Music Teacher
+2026-05-10 15:49:49,176 | INFO     | scraper |     ✅ NEW  : Planning and Financial Analyst Manager
+2026-05-10 15:49:49,190 | INFO     | scraper |     ✅ NEW  : Grant Finance Manager
+2026-05-10 15:49:49,205 | INFO     | scraper |     ✅ NEW  : Branch Manager Grade C
+2026-05-10 15:49:49,219 | INFO     | scraper |     ✅ NEW  : Project Administration(HR)
+2026-05-10 15:49:49,232 | INFO     | scraper |     ✅ NEW  : Project Nurse – Non-Communicable Diseases (NCD)
+2026-05-10 15:49:49,275 | INFO     | scraper |     ✅ NEW  : Outdoor sales (Meter taxi driver registration)
+2026-05-10 15:49:49,289 | INFO     | scraper |     ✅ NEW  : Project Coordinator
+2026-05-10 15:49:49,302 | INFO     | scraper |     ✅ NEW  : Cashier
+2026-05-10 15:49:49,316 | INFO     | scraper |     ✅ NEW  : Risk & Compliance Officer
+2026-05-10 15:49:49,330 | INFO     | scraper |     ✅ NEW  : Transit and Clearance Officer I
+2026-05-10 15:49:49,344 | INFO     | scraper |     ✅ NEW  : Junior Pharmacist
+2026-05-10 15:49:49,357 | INFO     | scraper |     ✅ NEW  : Account Manager
+2026-05-10 15:49:49,371 | INFO     | scraper |     ✅ NEW  : HighSchol  Maths / History / Amharic /Maths Teachers
+2026-05-10 15:49:49,385 | INFO     | scraper |     ✅ NEW  : Waiter
+2026-05-10 15:49:49,399 | INFO     | scraper |     ✅ NEW  : Mobile App Developer (End-to-End)
+2026-05-10 15:49:49,413 | INFO     | scraper |     ✅ NEW  : Routine immunization Support Manager
+2026-05-10 15:49:49,426 | INFO     | scraper |     ✅ NEW  : Finance and  Administration Manager
+2026-05-10 15:49:49,439 | INFO     | scraper |     ✅ NEW  : Special Advisor for Field Epidemiology Program
+2026-05-10 15:49:49,458 | INFO     | scraper |     ✅ NEW  : Senior Audit Follow up and Analysis Officer
+2026-05-10 15:49:49,471 | INFO     | scraper |     ✅ NEW  : ከባድ መኪና ሹፌር
+2026-05-10 15:49:49,481 | INFO     | scraper |     ✅ NEW  : Office Engineer
+2026-05-10 15:49:49,494 | INFO     | scraper |     ✅ NEW  : Storekeeper for Green & Roasted Coffee
+2026-05-10 15:49:49,505 | INFO     | scraper |     ✅ NEW  : Senior EMR Coordinator
+2026-05-10 15:49:49,520 | INFO     | scraper |     ✅ NEW  : Program Coordinator – Cleft Lip & Palate
+2026-05-10 15:49:49,529 | INFO     | scraper |     ✅ NEW  : Junior Battery Charging Technician
+2026-05-10 15:49:49,542 | INFO     | scraper |     ✅ NEW  : General Formal
+2026-05-10 15:49:49,554 | INFO     | scraper |     ✅ NEW  : Office Receptionist / Hospitality Worker
+2026-05-10 15:49:49,567 | INFO     | scraper |     ✅ NEW  : Special Advisor for Field Epidemiology Program
+2026-05-10 15:49:49,578 | INFO     | scraper |     ✅ NEW  : Project Coordinator- Dessie (Children in Street Situation Project)
+2026-05-10 15:49:49,593 | INFO     | scraper |     ✅ NEW  : Internal Auditor
+2026-05-10 15:49:49,604 | INFO     | scraper |     ✅ NEW  : Sales and Marketing  Manager
+2026-05-10 15:49:49,616 | INFO     | scraper |     ✅ NEW  : Sanitary Engineer
+2026-05-10 15:49:49,629 | INFO     | scraper |     ✅ NEW  : Senior Assessor I
+2026-05-10 15:49:49,640 | INFO     | scraper |     ✅ NEW  : Junior Marketing Officer
+2026-05-10 15:49:49,650 | INFO     | scraper |     ✅ NEW  : LAF officer
+2026-05-10 15:49:51,929 | INFO     | scraper |   📄 Page 5/5
+2026-05-10 15:49:52,733 | INFO     | scraper |   [WEB] → https://www.hahu.jobs/jobs?min_yoe=0&max_yoe=100&page=5
+2026-05-10 15:50:04,667 | INFO     | scraper |     54 cards found
+2026-05-10 15:50:04,690 | INFO     | scraper |     ✅ NEW  : Auditor
+2026-05-10 15:50:04,706 | INFO     | scraper |     ✅ NEW  : Senior Architect
+2026-05-10 15:50:04,720 | INFO     | scraper |     ✅ NEW  : General Accountant
+2026-05-10 15:50:04,736 | INFO     | scraper |     ✅ NEW  : Deputy Operation Manager
+2026-05-10 15:50:04,751 | INFO     | scraper |     ✅ NEW  : Project Officer- Strengthening Social Structures (Children's in Street Situation Project, Dessie)
+2026-05-10 15:50:04,769 | INFO     | scraper |     ✅ NEW  : Routine immunization Support Manager
+2026-05-10 15:50:04,784 | INFO     | scraper |     ✅ NEW  : General service supervisor
+2026-05-10 15:50:04,798 | INFO     | scraper |     ✅ NEW  : Head, Transport and Deployment Department
+2026-05-10 15:50:04,813 | INFO     | scraper |     ✅ NEW  : Project Manager
+2026-05-10 15:50:04,832 | INFO     | scraper |     ✅ NEW  : Admin and Staff Assistant
+2026-05-10 15:50:04,844 | INFO     | scraper |     ✅ NEW  : Sales Executive
+2026-05-10 15:50:04,858 | INFO     | scraper |     ✅ NEW  : Auto Mechanics
+2026-05-10 15:50:04,874 | INFO     | scraper |     ✅ NEW  : Business Executive
+2026-05-10 15:50:04,887 | INFO     | scraper |     ✅ NEW  : HR Manager
+2026-05-10 15:50:04,904 | INFO     | scraper |     ✅ NEW  : Senior Office Engineer
+2026-05-10 15:50:04,919 | INFO     | scraper |     ✅ NEW  : Store Keeper
+2026-05-10 15:50:04,938 | INFO     | scraper |     ✅ NEW  : Senior Accountant
+2026-05-10 15:50:04,953 | INFO     | scraper |     ✅ NEW  : General Manager (GM)
+2026-05-10 15:50:04,967 | INFO     | scraper |     ✅ NEW  : Senior Auditor
+2026-05-10 15:50:04,984 | INFO     | scraper |     ✅ NEW  : Project Officer- Reintegration (Children in Street Situation Project - Dessie)
+2026-05-10 15:50:04,999 | INFO     | scraper |     ✅ NEW  : Mechanical Engineer (must have experience on building projects
+2026-05-10 15:50:05,013 | INFO     | scraper |     ✅ NEW  : ELECTROMECHANICAL
+2026-05-10 15:50:05,026 | INFO     | scraper |     ✅ NEW  : Planning and Financial Analyst Manager
+2026-05-10 15:50:05,045 | INFO     | scraper |     ✅ NEW  : Senior Special Advisor for Grant Finance Management
+2026-05-10 15:50:05,059 | INFO     | scraper |     ✅ NEW  : Invitation to RFO for the selection of Insurance Broker. (RFO submitted must be in accordance with the instructions outlined in the TOR and RFO document) REF: RFO-ADD-ZZ1-50102
+2026-05-10 15:50:05,076 | INFO     | scraper |     ✅ NEW  : Junior Accountant
+2026-05-10 15:50:05,090 | INFO     | scraper |     ✅ NEW  : Tourism Market Analyst IV
+2026-05-10 15:50:05,102 | INFO     | scraper |     ✅ NEW  : Environmental Health Officer
+2026-05-10 15:50:05,113 | INFO     | scraper |     ✅ NEW  : Accountant
+2026-05-10 15:50:05,126 | INFO     | scraper |     ✅ NEW  : Workshop Manager
+2026-05-10 15:50:05,140 | INFO     | scraper |     ✅ NEW  : Manager, Human Resource Department
+2026-05-10 15:50:05,155 | INFO     | scraper |     ✅ NEW  : Junior Administration Officer
+2026-05-10 15:50:05,167 | INFO     | scraper |     ✅ NEW  : Legal Officer
+2026-05-10 15:50:05,179 | INFO     | scraper |     ✅ NEW  : Branch Manager I
+2026-05-10 15:50:05,192 | INFO     | scraper |     ✅ NEW  : Branch Manager III (Re- advertised)
+2026-05-10 15:50:07,474 | INFO     | scraper |   Web done — New: 229 | Dup: 41
+2026-05-10 15:50:07,789 | INFO     | telethon.crypto.libssl | Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)
+2026-05-10 15:50:07,790 | INFO     | telethon.crypto.aes | cryptg module not installed and libssl not found, falling back to (slower) Python encryption
+2026-05-10 15:50:07,976 | INFO     | telethon.network.mtprotosender | Connecting to 149.154.167.91:443/TcpFull...
+2026-05-10 15:50:08,128 | INFO     | telethon.network.mtprotosender | Connection to 149.154.167.91:443/TcpFull complete!
+2026-05-10 15:50:09,388 | INFO     | scraper |   [TG] Scanning @freelance_ethio (last 100 msgs)…
+2026-05-10 15:50:10,248 | INFO     | scraper |     ✅ NEW TG: **Video Editor & Videographer**
+2026-05-10 15:50:10,302 | INFO     | scraper |     ✅ NEW TG: **የፊልድ ላይ ሽያጭ ወኪል (Scout - Field Sales Agent)**
+2026-05-10 15:50:10,313 | INFO     | scraper |     ✅ NEW TG: **Junior TikTok video Editor / ቪዲዮ ኤዲተር**
+2026-05-10 15:50:10,325 | INFO     | scraper |     ✅ NEW TG: **ሴት የኮስሞቲክስ ሽያጭ ሰራተኛ**
+2026-05-10 15:50:10,336 | INFO     | scraper |     ✅ NEW TG: **Tender & Quantity Survey Enginee**
+2026-05-10 15:50:10,346 | INFO     | scraper |     ✅ NEW TG: **Sales supervisor**
+2026-05-10 15:50:10,360 | INFO     | scraper |     ✅ NEW TG: **content creator& digital marketer**
+2026-05-10 15:50:10,373 | INFO     | scraper |     ✅ NEW TG: **Supervisor for a supermarket**
+2026-05-10 15:50:10,386 | INFO     | scraper |     ✅ NEW TG: **Senior Laboratory Technician**
+2026-05-10 15:50:10,400 | INFO     | scraper |     ✅ NEW TG: **Freshman Course Instructors(Teachers)**
+2026-05-10 15:50:10,415 | INFO     | scraper |     ✅ NEW TG: **waitress & Cashier**
+2026-05-10 15:50:10,428 | INFO     | scraper |     ✅ NEW TG: **sales Agent**
+2026-05-10 15:50:10,440 | INFO     | scraper |     ✅ NEW TG: **Customer acquisition agents**
+2026-05-10 15:50:10,457 | INFO     | scraper |     ✅ NEW TG: **outdoor sales**
+2026-05-10 15:50:10,471 | INFO     | scraper |     ✅ NEW TG: **Front Desk Coordinator / Receptionist**
+2026-05-10 15:50:10,482 | INFO     | scraper |     ✅ NEW TG: **Social Media Manager**
+2026-05-10 15:50:10,495 | INFO     | scraper |     ✅ NEW TG: **Senior Graphics Designer**
+2026-05-10 15:50:10,507 | INFO     | scraper |     ✅ NEW TG: **Videographer & Video Editor**
+2026-05-10 15:50:10,521 | INFO     | scraper |     ✅ NEW TG: **Content Creator / Copywriter**
+2026-05-10 15:50:10,534 | INFO     | scraper |     ✅ NEW TG: **Sales Representative**
+2026-05-10 15:50:10,549 | INFO     | scraper |     ✅ NEW TG: **Senior Sales Driver (FMCG)**
+2026-05-10 15:50:10,562 | INFO     | scraper |     ✅ NEW TG: **Shop and Tiktok live sales**
+2026-05-10 15:50:10,575 | INFO     | scraper |     ✅ NEW TG: **Driver**
+2026-05-10 15:50:10,625 | INFO     | scraper |     ✅ NEW TG: **Receiptionist**
+2026-05-10 15:50:10,640 | INFO     | scraper |     ✅ NEW TG: **Junior Software Engineer**
+2026-05-10 15:50:10,654 | INFO     | scraper |     ✅ NEW TG: **Human Resources Officer**
+2026-05-10 15:50:10,669 | INFO     | scraper |     ✅ NEW TG: **Daycare Nanny**
+2026-05-10 15:50:10,682 | INFO     | scraper |     ✅ NEW TG: **Junior Assistant**
+2026-05-10 15:50:10,695 | INFO     | scraper |     ✅ NEW TG: **Cashier**
+2026-05-10 15:50:10,708 | INFO     | scraper |     ✅ NEW TG: **የሞተር ብስክሌት ማድረስ አጋር (በራሳቸው ሞተር ለሚሰሩ)**
+2026-05-10 15:50:10,721 | INFO     | scraper |     ✅ NEW TG: **የሞተር ብስክሌት አሽከርካሪዎች (የድርጅት ሞተር)**
+2026-05-10 15:50:10,735 | INFO     | scraper |     ✅ NEW TG: Job Opportunity
+2026-05-10 15:50:10,749 | INFO     | scraper |     ✅ NEW TG: Job Opportunity
+2026-05-10 15:50:10,760 | INFO     | scraper |     ✅ NEW TG: **Social Media Manager**
+2026-05-10 15:50:10,774 | INFO     | scraper |     ✅ NEW TG: **Senior Accountant**
+2026-05-10 15:50:10,787 | INFO     | scraper |     ✅ NEW TG: Video Editor & Content Editor
+2026-05-10 15:50:10,800 | INFO     | scraper |     ✅ NEW TG: **Executive Secretary**
+2026-05-10 15:50:10,811 | INFO     | scraper |     ✅ NEW TG: **Garment Pattern maker**
+2026-05-10 15:50:10,824 | INFO     | scraper |     ✅ NEW TG: **Driver (ሹፌር)**
+2026-05-10 15:50:10,837 | INFO     | scraper |     ✅ NEW TG: **Accountant and Admin Assistant**
+2026-05-10 15:50:10,851 | INFO     | scraper |     ✅ NEW TG: **Document Control Officer**
+2026-05-10 15:50:10,862 | INFO     | scraper |     ✅ NEW TG: **Sales**
+2026-05-10 15:50:10,877 | INFO     | scraper |     ✅ NEW TG: **cashier sales**
+2026-05-10 15:50:10,889 | INFO     | scraper |     ✅ NEW TG: **EV Diagnosis Specialist**
+2026-05-10 15:50:10,904 | INFO     | scraper |     ✅ NEW TG: **Upwork Account Manager**
+2026-05-10 15:50:10,917 | INFO     | scraper |     ✅ NEW TG: **Junior Finance**
+2026-05-10 15:50:10,929 | INFO     | scraper |     ✅ NEW TG: **Sales**
+2026-05-10 15:50:10,943 | INFO     | scraper |     ✅ NEW TG: **Marketing and sales manager**
+2026-05-10 15:50:10,955 | INFO     | scraper |     ✅ NEW TG: **Sales representative**
+2026-05-10 15:50:10,968 | INFO     | scraper |     ✅ NEW TG: **Liaison Officer**
+2026-05-10 15:50:10,982 | INFO     | scraper |     ✅ NEW TG: **Junior Accountant**
+2026-05-10 15:50:10,995 | INFO     | scraper |     ✅ NEW TG: **Marketing/sales intern**
+2026-05-10 15:50:11,006 | INFO     | scraper |     ✅ NEW TG: **Customer service**
+2026-05-10 15:50:11,023 | INFO     | scraper |     ✅ NEW TG: **Head of Digital Marketing**
+2026-05-10 15:50:11,034 | INFO     | scraper |     ✅ NEW TG: **Social Media Content Lead(Host and Writer)**
+2026-05-10 15:50:11,048 | INFO     | scraper |     ✅ NEW TG: Job Opportunity
+2026-05-10 15:50:11,061 | INFO     | scraper |     ✅ NEW TG: **Manager**
+2026-05-10 15:50:11,073 | INFO     | scraper |     ✅ NEW TG: **Car Washer/EV detailing**
+2026-05-10 15:50:11,124 | INFO     | scraper |     ✅ NEW TG: **Junior IT Support Officer**
+2026-05-10 15:50:11,135 | INFO     | scraper |     ✅ NEW TG: **Digital Marketing Manager**
+2026-05-10 15:50:11,147 | INFO     | scraper |     ✅ NEW TG: **ስፓ ሬሴፕሽኒስት / Spa Receptionist**
+2026-05-10 15:50:11,161 | INFO     | scraper |     ✅ NEW TG: **IT Support Technician (Junior)**
+2026-05-10 15:50:11,174 | INFO     | scraper |     ✅ NEW TG: **Pottery and Painting Trainer and Caregiver for Children**
+2026-05-10 15:50:11,186 | INFO     | scraper |     ✅ NEW TG: **Structural engineer**
+2026-05-10 15:50:11,200 | INFO     | scraper |     ✅ NEW TG: **Senior Accountant**
+2026-05-10 15:50:11,212 | INFO     | scraper |     ✅ NEW TG: **Graphics Designer & Content creator**
+2026-05-10 15:50:11,224 | INFO     | scraper |     ✅ NEW TG: **Video Editor**
+2026-05-10 15:50:11,236 | INFO     | scraper |     ✅ NEW TG: **Visa & Travel Consultant**
+2026-05-10 15:50:11,251 | INFO     | scraper |     ✅ NEW TG: **One to One teacher(For Adolescents)**
+2026-05-10 15:50:11,264 | INFO     | scraper |     ✅ NEW TG: **Female marketing manager**
+2026-05-10 15:50:11,276 | INFO     | scraper |     ✅ NEW TG: **Executive Secretary**
+2026-05-10 15:50:11,292 | INFO     | scraper |     ✅ NEW TG: **Video Editor**
+2026-05-10 15:50:11,305 | INFO     | scraper |     ✅ NEW TG: **One to One Teacher**
+2026-05-10 15:50:11,319 | INFO     | scraper |     ✅ NEW TG: **procurement officer**
+2026-05-10 15:50:11,329 | INFO     | scraper |     ✅ NEW TG: **ስቶር ኪፐር**
+2026-05-10 15:50:11,342 | INFO     | scraper |     ✅ NEW TG: **Event security**
+2026-05-10 15:50:11,355 | INFO     | scraper |     ✅ NEW TG: **Junior Showroom Assistant**
+2026-05-10 15:50:11,367 | INFO     | scraper |     ✅ NEW TG: **Graphic Designer & Motion Graphics Designer**
+2026-05-10 15:50:11,380 | INFO     | scraper |     ✅ NEW TG: **Video Editor**
+2026-05-10 15:50:11,392 | INFO     | scraper |     ✅ NEW TG: **Photo Editor**
+2026-05-10 15:50:11,405 | INFO     | scraper |     ✅ NEW TG: **Bar and Restaurant Manager**
+2026-05-10 15:50:11,416 | INFO     | scraper |     ✅ NEW TG: **HR Recruiter / Talent Acquisition Specialist**
+2026-05-10 15:50:11,432 | INFO     | scraper |     ✅ NEW TG: Job Opportunity
+2026-05-10 15:50:11,445 | INFO     | scraper |     ✅ NEW TG: **የሞተር ሳይክል ሾፌር እና የጣሪያ መለኪያ ባለሙያ**
+2026-05-10 15:50:11,458 | INFO     | scraper |     ✅ NEW TG: **Accountant**
+2026-05-10 15:50:11,470 | INFO     | scraper |     ✅ NEW TG: **General Mechanic**
+2026-05-10 15:50:11,484 | INFO     | scraper |     ✅ NEW TG: **Purchaser**
+2026-05-10 15:50:11,497 | INFO     | scraper |     ✅ NEW TG: **Accountant**
+2026-05-10 15:50:11,508 | INFO     | scraper |     ✅ NEW TG: **Accounting Intern**
+2026-05-10 15:50:11,523 | INFO     | scraper |     ✅ NEW TG: **Personal assistant**
+2026-05-10 15:50:11,550 | INFO     | scraper |     ✅ NEW TG: **Remote English Tutor**
+2026-05-10 15:50:11,560 | INFO     | scraper |     ✅ NEW TG: **Part time sales/Gig worker**
+2026-05-10 15:50:11,573 | INFO     | scraper |     ✅ NEW TG: **Sales person**
+2026-05-10 15:50:11,587 | INFO     | scraper |     ✅ NEW TG: **Junior Accountant & Administrative Officer**
+2026-05-10 15:50:11,602 | INFO     | scraper |     ✅ NEW TG: **Office manager and Customer service**
+2026-05-10 15:50:11,614 | INFO     | scraper |     ✅ NEW TG: **Professional nanny**
+2026-05-10 15:50:11,628 | INFO     | scraper |     ✅ NEW TG: **Senior B2B & Tender Sales Executive**
+2026-05-10 15:50:11,639 | INFO     | scraper |     ✅ NEW TG: **Draftsman**
+2026-05-10 15:50:11,641 | INFO     | telethon.network.mtprotosender | Disconnecting from 149.154.167.91:443/TcpFull...
+2026-05-10 15:50:11,642 | INFO     | telethon.network.mtprotosender | Disconnection from 149.154.167.91:443/TcpFull complete!
+2026-05-10 15:50:11,651 | INFO     | scraper |   TG done — New: 98 | Dup: 0
+2026-05-10 15:50:11,651 | INFO     | scraper | ============================================================
+2026-05-10 15:50:11,651 | INFO     | scraper | ✅ Cycle done | Web new: 229 | TG new: 98 | Dup: 41
+2026-05-10 15:50:11,652 | INFO     | scraper | ============================================================
